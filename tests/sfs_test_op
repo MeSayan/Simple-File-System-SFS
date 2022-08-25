@@ -1,0 +1,46 @@
+
+After Writing (50000 bytes read)
+
+Inode (1) Statistics: 
+=======================
+Valid Bit: 1
+Size: 50000
+No of blocks in use: 13
+No of direct pointers in use: 5
+No of indirect pointers in use: 8
+
+
+After Reading (50000 bytes read)
+Result of string comparision: T
+
+After Writing (50000 bytes read)
+
+Inode (2) Statistics: 
+=======================
+Valid Bit: 1
+Size: 50000
+No of blocks in use: 13
+No of direct pointers in use: 5
+No of indirect pointers in use: 8
+
+
+After Reading (50000 bytes read)
+Result of string comparision: T
+
+Inode (2) Statistics: 
+=======================
+Valid Bit: 0
+Size: 0
+No of blocks in use: 0
+No of direct pointers in use: 0
+No of indirect pointers in use: 0
+
+
+Inode (1) Statistics: 
+=======================
+Valid Bit: 1
+Size: 50000
+No of blocks in use: 13
+No of direct pointers in use: 5
+No of indirect pointers in use: 8
+

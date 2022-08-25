@@ -1,0 +1,128 @@
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 2 / 1152
+Used Data Blocks: 1 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 122
+# Writes: 19
+
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 3 / 1152
+Used Data Blocks: 2 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 248
+# Writes: 24
+
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 4 / 1152
+Used Data Blocks: 3 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 385
+# Writes: 29
+
+1 2 3
+Writing to file /home/sayan/hello.txt
+Wrote  200000 bytes
+Wrote (showing first 50 characters):
+ KRHLAQUSOKOJMYCPCMLMAYMCHTWDXOGHGQUIGRDUBRDPRHGVUR
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 5 / 1152
+Used Data Blocks: 53 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 696
+# Writes: 134
+
+Reading from file /home/sayan/hello.txt
+Read 200000 bytes
+Read (showing first 50 characters):
+ KRHLAQUSOKOJMYCPCMLMAYMCHTWDXOGHGQUIGRDUBRDPRHGVUR
+Result of string comparison: T
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 5 / 1152
+Used Data Blocks: 53 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 883
+# Writes: 134
+
+Writing to file /home/sayan/AOSD/Assignment3/hello.c
+Wrote 57 bytes
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 7 / 1152
+Used Data Blocks: 56 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 1213
+# Writes: 147
+
+Reading from file /home/sayan/AOSD/Assignment3/hello.c
+Read 57 bytes
+Read :
+#define <stdio.h>
+int main() {
+ printf("Hello World");
+}
+Result of string comparison: T
+Removing /home/sayan/AOSD 
+Status of remove operation: 0
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 4 / 1152
+Used Data Blocks: 53 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 1512
+# Writes: 165
+
+Removing everything 
+Status of remove operation: 0
+
+     Filesystem Statistics:    
+=================================
+Used Inodes : 0 / 1152
+Used Data Blocks: 0 / 87
+
+        Disk Statistics:       
+=================================
+# Blocks: 99
+# Bytes 409600
+# Reads: 1730
+# Writes: 226
+
