@@ -1,4 +1,4 @@
-# Persistnt Simple File System (PSFS)
+# Persistent Simple File System (PSFS)
 
 PSFS is an on-disk EXT1 based persistent filesytem implementation.
 It supports both file and directory based operations. 
